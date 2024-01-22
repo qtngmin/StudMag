@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace RunGroopWebApp.Models
+namespace StudMag.Models
 {
     public class Address
     {

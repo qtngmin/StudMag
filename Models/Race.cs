@@ -1,8 +1,8 @@
-using RunGroopWebApp.Data.Enum;
+using StudMag.Data.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace RunGroopWebApp.Models
+namespace StudMag.Models
 {
     public class Race
     {

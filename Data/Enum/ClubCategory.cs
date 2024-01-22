@@ -1,4 +1,4 @@
-namespace RunGroopWebApp.Data.Enum
+namespace StudMag.Data.Enum
 {
     public enum ClubCategory
     {

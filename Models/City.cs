@@ -1,4 +1,4 @@
-namespace RunGroopWebApp.Models
+namespace StudMag.Models
 {
     public class City
     {
