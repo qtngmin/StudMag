@@ -12,7 +12,7 @@ using StudMag.Data;
 namespace StudMag.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240122075933_InitialCreate")]
+    [Migration("20240221052106_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

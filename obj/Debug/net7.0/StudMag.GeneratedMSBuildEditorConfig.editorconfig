@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudMag
 build_property.RootNamespace = StudMag
-build_property.ProjectDir = D:\ASP.NET-proj\MVC-webapp\StudMag\
+build_property.ProjectDir = /Users/mac/Code/.NET/StudMag/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ASP.NET-proj\MVC-webapp\StudMag
+build_property.MSBuildProjectDirectory = /Users/mac/Code/.NET/StudMag
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Club/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxEZXRhaWwuY3NodG1s
+[/Users/mac/Code/.NET/StudMag/Views/Club/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Club/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxJbmRleC5jc2h0bWw=
+[/Users/mac/Code/.NET/StudMag/Views/Club/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/mac/Code/.NET/StudMag/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/mac/Code/.NET/StudMag/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Race/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxJbmRleC5jc2h0bWw=
+[/Users/mac/Code/.NET/StudMag/Views/Race/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/mac/Code/.NET/StudMag/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/mac/Code/.NET/StudMag/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/mac/Code/.NET/StudMag/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/mac/Code/.NET/StudMag/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.NET-proj/MVC-webapp/StudMag/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-h20wre9eua
+[/Users/mac/Code/.NET/StudMag/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3xreqfclgv
